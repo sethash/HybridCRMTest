@@ -1,0 +1,6 @@
+com\crm\qa\pages\ContactsPage.class
+com\crm\qa\extentReportListner\ExtentReporterNG.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\pages\SignInPage.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\util\TestUtil.class
